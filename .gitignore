@@ -1,0 +1,16 @@
+# Secrets - never commit
+src/Server/Modules/Secrets.lua
+
+# macOS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Roblox place files and tooling output
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxm
+*.rbxmx
+sourcemap.json
